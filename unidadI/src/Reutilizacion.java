@@ -33,4 +33,8 @@ public class Reutilizacion {
         boolean texto= sc.nextBoolean();
         return texto;
     }
+    //Función para imprimir
+    public static void imprimirMensaje(String mensaje){
+        System.out.println(mensaje);
+    }
 }
