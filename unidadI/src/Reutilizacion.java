@@ -26,6 +26,14 @@ public class Reutilizacion {
         return texto;
     }
 
+    //Función para ingresar un caracter
+    public static char ingresarCaracter(String mensaje){
+        Scanner sc= new Scanner(System.in);
+        System.out.print(mensaje);
+        char letra= sc.nextLine().charAt(0);
+        return letra;
+    }
+
     //Función para ingresar un booleano
     public static boolean ingresarBooleano(String mensaje){
         Scanner sc= new Scanner(System.in);
