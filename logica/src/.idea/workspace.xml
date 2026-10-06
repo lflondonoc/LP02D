@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="999a6d45-0504-4d82-ad98-ee5b4344a895" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructoraBaru.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decisiones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmpresaFrutas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmpresaFrutas2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstructuraSwtich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jardineria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jardineria2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jardineria3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jardineria4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LigaBoxeo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperadoresAritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperadoresRelacionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromedioNotas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetroalimentacionParcial1Punto3AB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetroalimentacionParcialPunto2A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetroalimentacionParcialPunto2B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reutilizacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RutaVerde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumaCuadrados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumaNumeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumarNumeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Technology.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposDatos.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KK3SvcomOM43sbF6UsDtkDj5hx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/luilondono/Desktop/Programación/LP2026-2/LP02D/unidadI/src"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999a6d45-0504-4d82-ad98-ee5b4344a895" name="Changes" comment="" />
+      <created>1791292436049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791292436049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
