@@ -37,10 +37,12 @@ public class MenuInteractivo {
                     Reutilizacion.imprimirMensaje("La resta de los números "+numero1+" - "+numero2+" = "+resta);
                     break;
                 case 3:
-
+                    int multiplicacion= multiplicarNumeros(numero1, numero2);
+                    Reutilizacion.imprimirMensaje("La multiplicación de los números "+numero1+" - "+numero2+" = "+multiplicacion);
                     break;
                 case 4:
-
+                    int division= dividirNumeros(numero1, numero2);
+                    Reutilizacion.imprimirMensaje("La división de los números "+numero1+" - "+numero2+" = "+division);
                     break;
                 case 5:
                     System.out.println("Adios......");
