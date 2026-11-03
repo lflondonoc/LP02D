@@ -10,7 +10,6 @@ public class NotaMayor {
         Reutilizacion.imprimirMensaje(mensaje);
 
     }
-
     //Función para imprimir los estudiantes que tengan nota mayor a 3.0
     public static String imprimirNombres(String []nombres, double[]notas){
         String mensaje="Los estudiantes con nota mayor a 3.0 son: \n";
